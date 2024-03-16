@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Latihan1\Latihan1\bin\Debug\net8.0\Latihan1.exe
+C:\Users\User\source\repos\Latihan1\Latihan1\bin\Debug\net8.0\Latihan1.deps.json
+C:\Users\User\source\repos\Latihan1\Latihan1\bin\Debug\net8.0\Latihan1.runtimeconfig.json
+C:\Users\User\source\repos\Latihan1\Latihan1\bin\Debug\net8.0\Latihan1.dll
+C:\Users\User\source\repos\Latihan1\Latihan1\bin\Debug\net8.0\Latihan1.pdb
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\Latihan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\Latihan1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\Latihan1.AssemblyInfo.cs
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\Latihan1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\Latihan1.dll
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\refint\Latihan1.dll
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\Latihan1.pdb
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\Latihan1.genruntimeconfig.cache
+C:\Users\User\source\repos\Latihan1\Latihan1\obj\Debug\net8.0\ref\Latihan1.dll
